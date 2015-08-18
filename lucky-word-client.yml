@@ -1,4 +1,4 @@
 ---
-wordConfig: luckyWord, preamble
+wordConfig:
   luckyWord: Serendipity
   preamble: The Lucky word is
