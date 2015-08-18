@@ -1,8 +1,4 @@
 ---
-wordConfig:
-  luckyWord: lucky shiz
-  preamble: The Lucky word is
----
 spring:
   profiles: subject
   application:
