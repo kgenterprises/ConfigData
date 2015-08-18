@@ -1,4 +1,8 @@
 ---
+wordConfig:
+  luckyWord: lucky shiznit
+  preamble: The Lucky word is
+---
 spring:
   profiles: subject
   application:
